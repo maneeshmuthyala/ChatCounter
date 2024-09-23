@@ -1,6 +1,6 @@
-import CharacterCounter from './components/CharacterCounter'
+import TextAnalyzer from './components/TextAnalyzer'
 import './App.css'
 
-const App = () => <CharacterCounter />
+const App = () => <TextAnalyzer />
 
 export default App
